@@ -1,5 +1,1 @@
-Zolo+ 6.0
-hxjx
-hdjd
-hdjd
-hdjd
+6.1.0 Zolo+
