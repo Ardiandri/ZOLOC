@@ -1,5 +1,1 @@
-Zolo+ 7.0.0
-hddj
-jdk
-hdhd
-hdjd
+7.1.0 Zolo+
