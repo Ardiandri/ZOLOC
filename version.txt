@@ -1,4 +1,1 @@
-Zolo+ 10.0
-gdjs
-hddk
-dhjd
+11.0 Zolo+
