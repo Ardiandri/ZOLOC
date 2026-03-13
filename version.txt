@@ -1,4 +1,1 @@
-Zolo+ 2.2
-Gsjsk
-vdjd
-hsjsj
+2.2.0 Zolo+
