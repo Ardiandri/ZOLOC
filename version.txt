@@ -1,7 +1,1 @@
-Zolo+ 6.0
-GSSK
-HDKD
-HDJS
-HDJS
-HSJS
-
+6.1.0 Zolo+
