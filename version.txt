@@ -1,6 +1,1 @@
-Zolo+ 7.0
-GDSJ
-JWKW
-HDJD
-6328
-UESI
+7.1 Zolo+
