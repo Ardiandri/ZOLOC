@@ -1,6 +1,1 @@
-Zolo+ 1.3.0
-GDSJ
-GDSJ
-HDK
-HDKD
-GDHD
+2.0.0 Zolo+
