@@ -1,5 +1,1 @@
-Zolo+ 4.1.0
-GSKS
-BSJ
-JSK
-HSJS
+5.0 Zolo+
