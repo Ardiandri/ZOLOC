@@ -1,5 +1,1 @@
- Zolo+ 6.1.0
-hsjs
-nsk
-jdsk
-jdks
+7.0 Zolo+
