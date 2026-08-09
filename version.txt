@@ -1,4 +1,1 @@
- Zolo+  5.0
- dn
-bddm
-jdmd
+5.1.0 Zolo+
