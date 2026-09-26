@@ -1,4 +1,1 @@
-1.0.0 Zolo+_4.6
-bsjd
-hdjd
-jsjd
+Zolo+ 2.0.0
